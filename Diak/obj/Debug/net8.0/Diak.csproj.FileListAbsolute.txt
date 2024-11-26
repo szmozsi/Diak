@@ -1,0 +1,14 @@
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\bin\Debug\net8.0\Diak.exe
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\bin\Debug\net8.0\Diak.deps.json
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\bin\Debug\net8.0\Diak.runtimeconfig.json
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\bin\Debug\net8.0\Diak.dll
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\bin\Debug\net8.0\Diak.pdb
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\Diak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\Diak.AssemblyInfoInputs.cache
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\Diak.AssemblyInfo.cs
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\Diak.csproj.CoreCompileInputs.cache
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\Diak.dll
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\refint\Diak.dll
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\Diak.pdb
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\Diak.genruntimeconfig.cache
+C:\Users\adam.szmozsanyik\source\repos\Diak\Diak\obj\Debug\net8.0\ref\Diak.dll

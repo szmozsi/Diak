@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student Id="953c8117-bcc0-41c6-a8d1-83ccaf9ec849">
+    <Name>Anna</Name>
+    <Age>21</Age>
+    <Major>Informatika</Major>
+    <Courses>
+      <Course>
+        <Name>Adatbázisok</Name>
+        <Instructor>Dr. Nagy</Instructor>
+        <Grade>85</Grade>
+        <IsOptional>false</IsOptional>
+      </Course>
+      <Course>
+        <Name>Analízis</Name>
+        <Instructor>Dr. Kiss</Instructor>
+        <Grade>92</Grade>
+        <IsOptional>true</IsOptional>
+      </Course>
+    </Courses>
+  </Student>
+  <Student Id="d6a46b6d-fad6-4fc5-adfe-083980af1b16">
+    <Name>Béla</Name>
+    <Age>19</Age>
+    <Courses>
+      <Course>
+        <Name>Adatbázisok</Name>
+        <Instructor>Dr. Nagy</Instructor>
+        <Grade>70</Grade>
+        <IsOptional>false</IsOptional>
+      </Course>
+    </Courses>
+  </Student>
+</Students>
